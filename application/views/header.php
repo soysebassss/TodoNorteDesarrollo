@@ -122,4 +122,4 @@ $(window).load(function() {
     </div>
   </div>
 </div>
-</hader>
+</header>
