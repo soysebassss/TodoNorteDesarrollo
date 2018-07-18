@@ -1,13 +1,13 @@
 <!-- INICIO FOOTER --><!-- HOLAAAA-->
 <footer>
 <div class="bot1">
-<div class="container">
-<div class="row">
-<div class="span3">
-  <div class="block_title">Archives</div>
-  <ul class="ul0">
-    <li><a href="#">May 2013</a></li>
-    <li><a href="#">April 2013</a></li>
+  <div class="container">
+    <div class="row">
+      <div class="span3">
+        <div class="block_title">Archives</div>
+        <ul class="ul0">
+          <li><a href="#">May 2013</a></li>
+          <li><a href="#">April 2013</a></li>
     <li><a href="#">March 2013</a></li>
     <li><a href="#">February 2013</a></li>
     <li><a href="#">January 2013</a></li>                                                                                 
